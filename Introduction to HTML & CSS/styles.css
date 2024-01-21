@@ -1,0 +1,12 @@
+h1 {font-size: 50px;}
+
+.first {text-decoration: underline;}
+
+#second {font-style: italic;}
+
+[class] {color: blue;}
+
+div {
+    background-color: green;
+    font-family: 'Gill Sans', sans-serif;
+}

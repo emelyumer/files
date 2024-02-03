@@ -1,0 +1,71 @@
+@import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css);
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font: 14px/1.5 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+body, table {
+    font: inherit;
+}
+
+body {
+    padding: 4em;
+}
+
+a {
+    text-decoration: none;
+}
+
+nav {
+    background-color: #eee;
+    border: 1px solid #ccc;
+    padding: 2em;
+}
+
+nav li {
+    display: block;
+    list-style: none outside;
+}
+
+nav a {
+    color: #369;
+}
+
+
+button.shopping {
+    background-color: #83a94c;
+    border-color:  rgba(0, 0, 0, 0.1);
+}
+
+button.info {
+    background-color:  #008ed0;
+    border-color: rgba(0, 0, 0, 0.1);
+}
+
+button.delete {
+    background-color:  #cc4036;
+    border-color:  rgba(0, 0, 0, 0.25);
+}
+
+button {
+    padding: 4px 12px;
+    line-height: 12px;
+    color:  #ffffff;
+    margin-top: 2em;
+    cursor: pointer;
+
+}
+
+i {
+    width: 1.14em;
+    padding-right: 0.28em;
+}
+
+nav i {
+    color: #369;
+}
